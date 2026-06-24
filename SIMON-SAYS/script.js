@@ -143,6 +143,20 @@ function checkAnswer() {
 // Game Over
 function gameOver() {
 
+    document.body.classList.add("game-over");
+
+    setTimeout(() => {
+        document.body.classList.remove("game-over");
+    }, 400);
+
+    document.querySelector(".simon-board")
+    .classList.add("shake");
+
+    setTimeout(() => {
+        document.querySelector(".simon-board")
+            .classList.remove("shake");
+    }, 400);
+
     message.textContent =
         `Game Over! Final Score: ${score}`;
 
@@ -155,3 +169,4 @@ function gameOver() {
 
     level = 0;
 }
+
