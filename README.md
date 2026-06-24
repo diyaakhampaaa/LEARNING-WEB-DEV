@@ -20,13 +20,13 @@ A simple task management application built using HTML, CSS, and JavaScript.
 - Responsive card-based layout
 - Clean and user-friendly interface
 
-#### 🔹 Technologies Used
+#### Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-#### 🔹 Purpose
+#### Purpose
 
 - Practice DOM manipulation
 - Learn event handling
@@ -89,6 +89,33 @@ A small project that generates random activities and helps users discover new th
 - Organizing projects on GitHub
 
 ---
+### 4️. Simon Game
+
+A browser-based memory game inspired by the classic Simon electronic game.
+
+#### Features
+
+* Interactive circular Simon board
+* Random color sequence generation
+* Increasing difficulty with each level
+* Score and level tracking
+* Instant game-over detection
+* Responsive and modern UI
+
+#### Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+#### Purpose
+
+* Practice JavaScript events and DOM manipulation
+* Learn arrays and game logic
+* Understand state management
+* Work with timers using `setTimeout()` and `setInterval()`
+* Build an interactive frontend project
+
 
 ## 🌱 About Me
 
