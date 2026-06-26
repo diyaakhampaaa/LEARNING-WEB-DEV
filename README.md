@@ -138,6 +138,33 @@ This repository reflects my learning journey and progress as I build projects an
 
 ---
 
+### 4️. Calculator
+
+A modern and responsive **Calculator** built using **HTML, CSS, and JavaScript**. It performs basic arithmetic operations with a clean dark-themed user interface.
+
+#### Features
+
+* Perform basic arithmetic operations (+, −, ×, ÷)
+* Clear (AC) and Delete (DEL) functionality
+* Percentage and decimal support
+* Error handling for invalid expressions
+* Responsive design with smooth button animations
+
+#### Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+#### Purpose
+
+* Practice DOM manipulation
+* Understand event handling
+* Work with functions and conditional logic
+* Build an interactive JavaScript application
+* Improve UI design and responsive layouts
+
+
 ## 📫 Connect With Me
 
 💼 LinkedIn:  
