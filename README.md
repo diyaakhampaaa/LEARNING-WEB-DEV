@@ -1,10 +1,15 @@
-# Frontend Mini Projects 
+# Frontend Mini Projects
 
-This repository contains beginner-friendly frontend projects built while learning web development through hands-on practice.
+Welcome to my frontend development journey! 
 
-These projects focus on improving my understanding of HTML, CSS, and JavaScript by building real UI components and small applications.
+This repository contains the projects I've built while learning **HTML, CSS, and JavaScript**. Each project represents a step in my learning process—from creating simple user interfaces to building interactive applications and working with APIs.
+
+Rather than following tutorials alone, I learn by building. Every project helps me strengthen my understanding of core web development concepts, improve problem-solving skills, and write cleaner, more structured code.
+
+As I continue learning, I'll keep adding new projects that reflect my progress and explore more advanced frontend concepts.
 
 ---
+
 
 ## 📁 Projects Included
 
@@ -35,6 +40,8 @@ A simple task management application built using HTML, CSS, and JavaScript.
 
 ---
 
+##
+
 ### 2️. Sidebar Menu UI
 
 A responsive sidebar navigation menu built using HTML and CSS.
@@ -61,6 +68,7 @@ A responsive sidebar navigation menu built using HTML and CSS.
 - Understand responsive layouts
 
 ---
+##
 
 ### 3️. Activity Generator
 
@@ -89,6 +97,9 @@ A small project that generates random activities and helps users discover new th
 - Organizing projects on GitHub
 
 ---
+
+##
+
 ### 4️. Simon Game
 
 A browser-based memory game inspired by the classic Simon electronic game.
@@ -125,8 +136,9 @@ A browser-based memory game inspired by the classic Simon electronic game.
 - Continue maintaining project consistency
 
 ---
+##
 
-### 4️. Calculator
+### 5. Calculator
 
 A modern and responsive **Calculator** built using **HTML, CSS, and JavaScript**. It performs basic arithmetic operations with a clean dark-themed user interface.
 
@@ -152,7 +164,42 @@ A modern and responsive **Calculator** built using **HTML, CSS, and JavaScript**
 * Build an interactive JavaScript application
 * Improve UI design and responsive layouts
 
+##
 
+##
+
+### 6. GitHub Profile Finder
+
+A modern **GitHub Profile Finder** built using **HTML, CSS, and JavaScript**. It fetches real-time user information from the **GitHub REST API** and displays it in a clean, responsive interface.
+
+#### Features
+
+* Search any public GitHub username
+* Display profile picture, name, and bio
+* View followers, following, and public repositories
+* Show user location
+* Direct link to the GitHub profile
+* Search using both the **Search** button and the **Enter** key
+* Handles invalid usernames and network errors gracefully
+* Responsive dark-themed UI inspired by GitHub
+
+#### Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Fetch API
+* GitHub REST API
+
+#### Purpose
+
+* Learn how to work with REST APIs
+* Practice `fetch()`, `async/await`, and JSON
+* Strengthen DOM manipulation skills
+* Understand asynchronous JavaScript and error handling
+* Build a real-world JavaScript application
+
+##
 
 ## 🌱 About Me
 
